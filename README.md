@@ -1,4 +1,4 @@
-The package includes: Webpack 2 + Babel Es6 preset + React@15 + jQuery
+The package includes: Webpack 2 + Babel Es6 preset + React@15
 <br /><br />
 1) yarn install<br />
 2) yarn commands:

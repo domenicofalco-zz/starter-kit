@@ -1,3 +1,9 @@
+/*
+  Global Scripts are meant to be generic classes for the web site.
+  Global Scripts are stand alone apps/scripts.
+  They get run on every page reload, regardless "data-script" and "data-react-app" and it doesn't need to be wrapped somewhere.
+*/
+
 // Classes declaration :: EXAMPLES
 class displayMsgInAlert {
   constructor(msg) {

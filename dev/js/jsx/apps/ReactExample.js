@@ -1,3 +1,9 @@
+/*
+  Apps are stand alone apps.
+  They need to be wrapped in the markup (with "data-react-app" attr).
+  The apps stand for smart objects that handle & cointain the main logic & data to pass to child components
+*/
+
 // dependencies
 import React from 'react'
 import ReactDOM from 'react-dom'

@@ -1,3 +1,9 @@
+/*
+  Scripts could be stand alone apps.
+  They need to be wrapped in the markup (with "data-script" attr).
+  The Scripts stand for eigher smart or dumb objects that handle & cointain the logic & data for your own scripts.
+*/
+
 class ScriptExampleTemplate {
   constructor(el, labels = {}) {
     this.$selector = el;
